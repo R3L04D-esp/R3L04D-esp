@@ -3,4 +3,4 @@
 # BIO
 Director de Desarrolladores de [esportinfinite](https://twitter.com/esportinfinite_).
   
-**Contact me on Discord: Sammwy#0001**
+**Contact me on Discord: Ｒ３Ｌ０４Ｄ#6822**
