@@ -12,9 +12,4 @@ Director de Desarrolladores de [esportinfinite](https://twitter.com/esportinfini
   <img src='https://i.giphy.com/media/9Jk3pXiWPNeZb4dbxm/giphy.webp' height='50px'>
   <img src='https://i.giphy.com/media/RGdZxnrFsoUwNrpRBx/giphy.webp' height='50px'>
   <img src='https://i.giphy.com/media/mGEMNcyE418zy2QqEK/giphy.webp' height='50px'>
-  <img src='https://i.giphy.com/media/eGmgF0V90QIgpMv4WQ/giphy.webp' height='50px'>
-  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/java.png' height='50px'>
-  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/javascript.jpg' height='50px'>
-  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/lua.png' height='50px'>
-  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/mongo.png' height='50px'>
 </p>
