@@ -7,7 +7,7 @@ Director de Desarrolladores de [esportinfinite](https://twitter.com/esportinfini
 **Contact me on Discord: Ｒ３Ｌ０４Ｄ#6822**
 
 <p align="center">
-  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/angular.png' height='50px'>
+  <img src='https://i.giphy.com/media/nZJhKZi4Ftzgl61hfR/200w.webp' height='50px'>
   <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/cpp.png' height='50px'>
   <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/csharp.png' height='50px'>
   <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/css.png' height='50px'>
